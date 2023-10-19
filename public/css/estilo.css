@@ -3,3 +3,11 @@ body {
     background-image: url("/img/goku3.jpg");
 }
 
+/* Estilo del contenedor principal */
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+
