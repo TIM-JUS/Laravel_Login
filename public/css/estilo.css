@@ -43,4 +43,7 @@ body {
     text-decoration: none;
 }
 
-
+/* Estilo para mensajes de error */
+.invalid-feedback {
+    color: #dc3545;
+}
