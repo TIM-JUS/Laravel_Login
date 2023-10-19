@@ -17,3 +17,13 @@ body {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
+/* Estilo de los campos de entrada */
+.form-control {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 2px solid blue;
+    border-radius: 3px;
+    box-shadow: none;
+}
+
