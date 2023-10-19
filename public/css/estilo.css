@@ -37,4 +37,10 @@ body {
     cursor: pointer;
 }
 
+/* Estilo para el enlace */
+.btn-link {
+    color: #007bff;
+    text-decoration: none;
+}
+
 
